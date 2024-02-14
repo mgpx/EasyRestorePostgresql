@@ -1,5 +1,5 @@
 # EasyRestorePostgresql
-## _Útilitario para resturar banco de ddos_
+## _Utilitário para resturar banco de ddos_
 
 O que isto faz?
 
