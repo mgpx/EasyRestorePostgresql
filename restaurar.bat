@@ -71,7 +71,8 @@ if "%existe%"=="t" (
 
 ) else (
     echo O banco de dados '%result%' nao existe.
-    GOTO :CreateDatabase
+    echo Sera criado um novo banco.
+    GOTO :ContinueSN
 )
 
 :ContinueSN
